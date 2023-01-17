@@ -1,0 +1,8 @@
+{
+  "Author": "ric0x101010",
+  "Name": "XIVMicroPaser for Dalamud",
+  "Punchline": "Minimum fight information such as Time to Kill, HP and DPS.",
+  "Description": "Displays reduced information such as the HP of the target, the group DPS and an estimated time to kill.",
+  "InternalName": "XIVMicroPaserDalamud",
+  "ApplicableVersion": "0.0.1",
+}
