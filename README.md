@@ -1,7 +1,7 @@
 
 ![example 1.0](https://ric0x101010.github.io/xivmicroparser/img/example_1.0.png)
 
-# xivmicropaser
+# xivmicropaser Dalamud
 XIV Micro Parser Plugin for Dalamud.
 There is also an alternative version as ACT Overlay: https://github.com/ric0x101010/xivmicroparser 
 
