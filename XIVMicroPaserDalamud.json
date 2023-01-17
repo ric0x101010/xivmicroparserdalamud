@@ -1,8 +1,15 @@
 {
   "Author": "ric0x101010",
   "Name": "XIVMicroPaser for Dalamud",
-  "Punchline": "Minimum fight information such as Time to Kill, HP and DPS.",
-  "Description": "Displays reduced information such as the HP of the target, the group DPS and an estimated time to kill.",
+  "Description": "A Dalamud plugin that parses target information, the group DPS and an estimated time to kill.",
+  "Punchline": "Extra traget Info",
   "InternalName": "XIVMicroPaserDalamud",
-  "ApplicableVersion": "0.0.1",
+  "Tags": [
+        "target",
+        "ui",
+        "DPS Meta"
+    ],
+  "IconUrl": "",
+  "RepoUrl": "https://github.com/ric0x101010/xivmicroparserdalamud",
+  "ApplicableVersion": "any",
 }
