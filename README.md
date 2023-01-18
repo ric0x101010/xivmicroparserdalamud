@@ -16,9 +16,10 @@ Broken down to:
 ### Test Feature
 - Checkbox for 50% TTK, this is there to get the time to kill for the 50% limit in fights like P8S P1. The percentage is also calculated with half of the HP so that 0% is displayed at 50% HP.
 
-## Usage
-
 ### Quick setup
-
-TODO
+- Use /xlplugins to open the plugin menu
+- Click the Settings button at the bottom and go to the Experimental tab
+- Add https://raw.githubusercontent.com/ric0x101010/xivmicroparserdalamud/master/repo.json to the Custom Plugin Repositories list and click the '+' button
+- Click Save and Close
+- xivmicropaser Dalamud should appear in the available plugins list.
 
