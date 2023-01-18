@@ -1,0 +1,27 @@
+[
+    {
+       "Author": "ric0x101010",
+       "Name": "XIVMicroPaser for Dalamud",
+       "Description": "A Dalamud plugin that parses target information, the group DPS and an estimated time to kill.",
+       "Punchline": "Extra traget Info",
+       "InternalName": "XIVMicroPaserDalamud",
+       "Tags": [
+              "target",
+              "ui",
+              "DPS Meta"
+        ],
+        "RepoUrl": "https://github.com/ric0x101010/xivmicroparserdalamud",
+        "ApplicableVersion": "any",      
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "ImageUrls": null,
+        "IconUrl": "",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "",
+        "DownloadLinkTesting": "",
+        "DownloadLinkUpdate": ""
+    }
+]
